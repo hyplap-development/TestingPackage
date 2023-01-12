@@ -1,0 +1,19 @@
+{
+    "name": "sayedzaid/contact",
+    "description": "trying a simple contact page",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sayedzaid\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sayed Zaid",
+            "email": "szaid444666@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
