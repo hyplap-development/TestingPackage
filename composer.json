@@ -14,6 +14,13 @@
             "email": "szaid444666@gmail.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sayedzaid\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
